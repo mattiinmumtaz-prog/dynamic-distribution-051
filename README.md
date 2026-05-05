@@ -19,4 +19,4 @@ This program implements dynamic task distribution using multiprocessing in Pytho
 - Optimal time achieved because no worker is idle
 
 ## How to Run
-python dynamic.py
+python dynamicdistribution.py
