@@ -1,8 +1,8 @@
 # Dynamic Distribution - Parallel Computing
 
-##Nama 
+## Nama 
 M. Attiin Mumtaz
-##NRP
+## NRP
 152024051
 
 ## Description
