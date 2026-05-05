@@ -1,7 +1,9 @@
 # Dynamic Distribution - Parallel Computing
 
-Nama : M. Attiin Mumtaz
-NRP  : 152024051
+##Nama 
+M. Attiin Mumtaz
+##NRP
+152024051
 
 ## Description
 This program implements dynamic task distribution using multiprocessing in Python.
